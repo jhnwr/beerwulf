@@ -1,5 +1,4 @@
 from requests_html import HTMLSession
-from bs4 import BeautifulSoup
 
 url = 'https://www.beerwulf.com/en-gb/c/subkegs?container=SUB%20Kegs%20-%202L%20keg&catalogCode=Beer_1'
 url2 = 'https://www.beerwulf.com/en-gb/c/beers?segment=Beers&catalogCode=Beer_1&page=2'
